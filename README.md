@@ -1,6 +1,19 @@
 # Real-time ptychography reconstruction toolbox
-> This is the code accompanying the paper "Real-time interactive 4D-STEM phase-contrast imaging from electron event representation data" to come out in IEEE Signal processing.
 
+
+
+This is the code accompanying the paper "Real-time interactive 4D-STEM phase-contrast imaging from electron event representation data" 
+to come out in IEEE Signal processing. The functionality can be seen in the two example notebooks in the 'examples' folder. 
+
+Please download the necessary data from [here](https://drive.google.com/file/d/12QjOpIixxsDIjizbaUVHaxJmrgu5lPUG/view?usp=sharing) and 
+[here](https://drive.google.com/file/d/1b0zlTCXOBXvnwUkBx-1NT2j6zb9uf2xw/view?usp=sharing) and put them in the example directory
+
+## Get started
+You can then set up a conda environment with all dependencies like so:
+```
+conda env create -f environment.yml
+conda activate cu11
+```
 
 ## Acknowledgements
 
