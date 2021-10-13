@@ -1,4 +1,4 @@
-# Real-time ptychography reconstruction toolbox
+# Real-time interactive 4D-STEM phase-contrast imaging from electron event representation data
 
 
 
